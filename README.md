@@ -17,7 +17,7 @@
 **第二步**：打开 WorkBuddy，把链接发给它，说：
 
 ```
-帮我安装这个 SKILL：https://github.com/你的用户名/ai-pm-transition-coach
+帮我安装这个 SKILL：https://github.com/sujack855-wq/ai-pm-transition-coach
 ```
 
 **第三步**：安装好之后，直接说：
